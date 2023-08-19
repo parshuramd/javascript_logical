@@ -1,0 +1,828 @@
+Automation Testing Jobs - Your Corporate Life
+For More Info: https://wa.me/message/7J3HRZSE7ZKEP1 (Get daily 200+ Jobs for Manual + Automation Testing)
+
+Urgent Opening for Sr. #QA Engineer - #Bangalore
+Experience required for the Job: 2.0 - 4.0 years
+Send resume on: swati.kharge@infinx.com
+Responsibilities:
+? Design and build automated test frameworks and test suites. Utilize innovative testing technologies to develop product's testing strategy.
+? Participation in design and code inspections.
+? API level testing.
+? Perform manual testing, the scope of which will encompass all functionalities of services as a prequel to automation.
+? Analyze test logs; create test reports, coordinate with stakeholders.
+Experience:
+? Minimum 2-3 years as a QA/Developer, Automation Engineer
+? Minimum 1 year of experience in automation testing
+? Basic experience in UI automation
+? Minimum 2 years of experience in Web Services automation, knowledge of RestAssured/ReadyAPI/SoapUI a plus
+? Hands on coding experience in any software development or scripting language
+? Experience working with databases and writing SQL queries for data validation
+? Experience with Selenium or Silk4J or Protractor is a huge plus
+? Testing enterprise applications deployed to cloud environments such as AWS
+? Experience with defect management/ tracking tools ? (JIRA)
+? Experience installing software builds
+
+We are currently hiring Java Backend Developer with 2+ yrs of experience
+* Strong software engineering fundamentals - Object Oriented design, data structures, and algorithms.
+* A quality-oriented mindset with a strong commitment to automated testing, metrics collection, monitoring, and continuous improvement in all of your work.
+* Proficient in Java/J2EE, Spring
+* Experience implementing RESTful services with API's
+* Cloud expertise (AWS)
+* Ability to drive features from conception to deployment in an agile team with continual delivery.
+* MYSQL
+If interested, kindly send me your resume to rohini.r@beroe-inc.com
+
+Paynearby Technologies is seeking a Quality Engineer with expertise in programming (e.g. Core Java, JS, Python) , Dev Ops (e.g. Jenkins, AWS) and Test Automation.
+If you have 2-5 years of experience and are based in Delhi NCR, this could be the perfect opportunity for you!
+Immediate joiners are preferred.
+Interested candidates can send their profiles to akshat.rastogi@paynearby.in
+
+Location : Ghansoli
+Experience : 2+ Years
+Job description
+1. Proven work experience in software quality assurance
+2. Strong knowledge of software #QA methodologies, tools, and processes
+3. Hands-on experience with #automatedtesting tools
+4. Keen eye for detail and a commitment to excellence
+5. Be willing to help your teammates, share your knowledge with them, and learn from them
+6. Be open to receiving constructive feedback and turning it into process improvements
+7. Review and analyze requirements, specifications, and technical design documents, providing timely feedback
+8. Develop detailed, comprehensive, and well-structured test plans and test cases
+9. Prioritize and plan testing activities
+10. Play the role of test engineer: Design, develop, and execute automated tests
+11. Experience with building the infrastructure for serving the front-end app and assets
+12. Identify and report issues found, then verify that issues are resolved
+13. Perform regression testing Key Skills Automation testing Software ,QA Front end Testing tools, Technical design Infrastructure, Regression testing, Test cases, Software quality assurance, Testing
+Interested contact : Ankita Sawant : 9930019444 / hr1@corporateladder.in
+
+hiring for QA Engineer for Bangalore location-
+Exp- 2 to 5years
+Skills Required: Automation Testing, Selenium, Java, (Cypress OR Playwright)
+Interested candidates with relevant skills, may connect at anita@global-consultants.in
+
+Looking for - Cypress Automation Tester
+Location: Pune/Nashik/Mumbai (Hybrid)
+Experience: 2.5+ years hands-on experience on Cypress
+Budget: 8-9 LPA
+Job type: Permanent
+Notice period: Immediate to 15 days max.
+Qualifications:
+1. Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).
+2. Proven experience in automated testing using the Cypress framework.
+3. Strong understanding of software testing concepts, methodologies, and best practices.
+4. Proficiency in JavaScript and experience with front-end web technologies such as HTML, CSS, and JavaScript frameworks (e.g., React, Angular).
+5. Solid understanding of web technologies and protocols (HTTP, REST, APIs).
+6. Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins, CircleCI).
+7. Familiarity with Agile/Scrum development methodologies.
+8. Strong analytical and problem-solving skills, with the ability to troubleshoot issues and propose effective solutions.
+9. Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
+10. Attention to detail and the ability to prioritize tasks in a fast-paced development environment.
+Responsibilities:
+1. Design and develop robust and efficient automated test scripts using Cypress for web-based applications.
+2. Collaborate with cross-functional teams to understand requirements, user stories, and acceptance criteria.
+3. Create and execute test plans, test cases, and test scripts to verify software application functionality, performance, reliability, and security.
+4. Should have knowledge of Page Object Model Implementation.
+5. Identify, isolate, and report defects, and work closely with the development team to ensure timely resolution.
+6. Maintain and enhance the automation framework, test infrastructure, and test data management systems.
+7. Perform regression testing to ensure new changes do not affect existing functionality.
+8. Analyze test results, track defects, and provide timely and accurate status reports to stakeholders.
+9. Continuously research and stay up-to-date with emerging trends and best practices in automation testing.
+10. Collaborate with the QA team to identify areas of improvement in the testing process and contribute to process enhancements.
+11. Participate in code reviews and provide feedback on testability and test coverage aspects.
+12. Monitor and analyze test results to ensure the reliability, accuracy, and effectiveness of the test scripts.
+Interested candidates can send their CV at neetika.saxena@aptohr.com
+
+Drive on 19th August 23
+GPP Tester
+Exp-3-8 yrs
+Location-Pune,Hinjawadi
+Opening with an MNC
+Notice period- 30 – 60 Days
+JD:
+"Good experience in Functional Testing for Payments
+Good experience in GPP Classic– Global Pay Plus Classic
+Implementation experience in other Instant/Real Time Payment Schemes involving Proxy Resolution, Direct Debits/Mandate Management will be an advantage.
+Good knowledge on Agile and Jira
+Work closely with BA, developers, QA engineers
+Lead complete testing cycle in development: test strategy ? execution ? traceability matrix & maintenance of test cases
+Develop and maintain Test case suite
+Test Execution - System testing, Integration testing, Sanity testing
+Experience and knowledge of using any Automation tool(e.g. Selenium) will be an advantage"
+If interested share CV at asima.s@krgtech.com along with current CTC, location expected CTC ,Notice Period and PAN Number;
+
+Opening for #Web #Automation || #Bangalore
+Experience required for the Job: 3.0 - 6.0 years
+Send resume on: beautik@testvagrant.com
+Job Location: Bangalore/Bengaluru
+We have opening for Web Automation Testing role, Revert back with below details if it matches with JD.
+Name
+Current Company
+Experience
+CTC
+ECTC
+NP
+Offer(If)
+Contact
+Email
+*Attach updated CV.
+JD-
+Javascript, Typescript (any 1 or both) - must have
+Web automation with Cypress - must have
+NodeJs - good to have
+Git - must have
+CI/CD exposure via tools like Jenkins - good to have
+
+LTIMindtree is hiring for Automation Test Engineer 
+Experience:- 3 to 5Yrs
+Location:- Pune
+Responsibilities:
+Software testing skills (experience 3-5 years) + development skills to automate testcases
+Skills to do independently continuous repetitive manual testing work, GUI, SOAP, JSON/REST
+Developer skills to develop independently automated software testing scripts for graphical user interfaces, development for SOAP interfaces, development for JSON/REST interfaces
+Skills generate new test cases based on IT requirements GUI, SOAP, JSON/REST
+Ability to read interface specifications
+Linux (RHEL 7)
+Networking basics
+Basic understanding of TLS server and client certificates
+WebLogic 12.2. APM
+Tools used currently:
+I-DE - Eclipse IDE for Enterprise Java and Web Developers v4.23.0
+Programming language - Java
+Build Tool - Maven
+Automation Tool - Selenium webdriver 3.0
+Testing Framework - Hybrid, TestNG
+Design Pattern – Project Object Model
+Schedule Jobs - Openshift hosted Jenkins
+Browser – Chrome
+Version Control Tool - BitBucket
+Apply: https://www.linkedin.com/jobs/view/3688492257
+
+Urgent hiring for Automation QA
+Location - Bangalore , Gurgaon , Mumbai , Ahmedabad.
+Experience - 3+ years of relevant experience in Cypress/Javascript.
+Notice Period - Immediate to 15 Days
+Mode : Hybrid
+Mandatory Skills - Cypress, Javascript
+budget open according to experience range.
+Job Description:
+We are looking for a highly skilled Lead Quality Engineer with 6-10 years of experience to join our team. The successful candidate will be responsible for leading the quality assurance team and ensuring the quality of software products and applications across all stages of the software development lifecycle.
+Job Responsibilites:
+- Collaborate with QA team to accomplish all daily QA tasks/activities on-time with the standards established.
+- Perform thorough review of business requirements, user stories, functional flows & specifications and provide feedback
+- Strong knowledge in QA process documentations (Test Plan, Test Strategy, Traceability Matrix, Bug Report)
+- Well versed in QA effort & estimation.
+- Lead the development of automated test frameworks using technologies such as Cypress, Selenium, and Chrometic.
+- Added advantage if good with Java and API using Postman
+- Good to have knowledge on JMeter, and JTEST
+- Lead code reviews and provide feedback on product quality
+- Continuously improve the quality assurance process by staying up-to-date with industry trends and best practices
+- Manage the quality assurance team and ensure team members are meeting project deadlines and deliverables
+- Collaborating with cross-functional teams to ensure quality throughout the software development lifecycle.
+- Troubleshoot and debug automated tests
+- Stay up-to-date on the latest automation testing tools and technologies
+Requirements:
+- Bachelor's degree in Computer Science, Engineering or a related field
+- 6-10 years of experience in software quality assurance
+- Strong knowledge of software testing methodologies, tools, and processes
+- Experience building automated test frameworks using Cypress, Selenium, Chrometal.
+- Must be aware of SonarQube.
+- Good to know Jmeter and JTEST
+- Experience with agile software development methodologies
+- Excellent problem-solving and analytical skills
+- Strong communication and collaboration skills
+- Experience leading and managing a team of quality assurance professionals
+- Ability to work independently and in a team environment
+Interested candidates may kindly share their resumes at
+Email : abhishek.chaudhary@bhavyansh.net
+
+Company:Hexaware Technologies
+Position:Walk-in For Automation Selenium testing on 19th Aug - Chennai
+Location:Chennai,Tamil Nadu
+Job Summary:Experience in Automation Testing- Selenium, Strong foundation in systems
+testing and software QA best practices, methodologies, and techniques.
+Expertise in Selenium, java, Cucumber BDD and Test NG.
+Experience with Enterprise bug tracking systems such as JIRA, Confluence
+Ability to design and develop a structured framework.
+Good exposure in SQL queries
+Good English communication skill
+Work Mode:Hybrid
+Exp:Exp :3.5 to 12 yrs.
+Email Id:sudhak4@hexaware.com
+Time and Venue
+19th August , 9.30 AM - 12.00 PM
+Hexaware Technologies, EB3, SIPCOT IT Park, H5, Chennai, Tamil Nadu, 603103
+Contact - SUDHA K
+Interested please send your updated resume with the required details mentioned below to my mail Id sudhak4@hexaware.com
+Name
+Mobile No
+Email Id
+Total Years of Experience
+Relevant Years of Experience
+Current Location
+Preferred Location
+CTC
+Expected CTC
+Notice Period
+
+Actively looking for Test Engineer
+Designation – Testing Engineer
+Required Experience – 4 to 6 years
+Location: Bangalore
+Key Responsibilities:
+- Conduct testing and validation of RAN EnodeBs to verify their performance, functionality, and compliance with industry standards and specifications.
+- Perform test case design, execution, and post-analysis to identify and analyze issues, ensuring the quality and reliability of EnodeB equipment.
+Requirements:
+- Bachelor's or Master's degree in Telecommunications, Electrical Engineering, or related field.
+- Proven experience in RAN EnodeB testing, with a solid understanding of LTE/5G mobile communication protocols and standards including LTE call-flows as per 3GPP standards.
+- TM500 hands-on experience and able to create test scripts on TM500.
+- Solid programming and scripting skills (Python, Perl, etc.) for test automation and tool development.
+Interested candidates can connect with me and share their CV to priyanka.gautam@amantyatech.com
+
+Oceaneering Chandigarh has an opening for ROV Software Test Team. We are looking for a candidate who has experience in Testing - 3+ years (Manual and Automation), should be able to understand C++ code and should be able to write the functional tests in C++.
+Interested candidates please share the resume at - adhillon@oceaneering.com
+
+LTIMindtree is looking for
+ 3-5 years of experience in testing (Engineer). this is added advantage (Experience in Investment Bank/Financial industry a great plus.)
+ Well versed with Testing process, Defect management.
+ Excellent analytical and communication skills.
+ Working knowledge of JIRA, Zephyr (or any test management tool), SQL / 50% manual + 50 % automation
+Experience-3 to 5 Years
+Job location-Mumbai
+Notice Period- Immediate to 30 Days
+If interested please share resume on Darshana.Potdukhe@ltimindtree.com
+
+We #Tensorsoft team are looking candidates for below multiple requirements for Bangalore/ Hyderabad/ Gurgaon locations.
+1- RAN/ORAN Automation Testing
+2- LTE/5G IMS Testing.
+3- Python Automation Testing
+4- LTE Automation Testing
+5- Full Stack Development
+6- Embedded System Development
+7- LTE UE Testing
+Interested candidates please share your resume at - rumkee.das@tensorsoftek.com
+
+Hiring for Senior Automation Engineer
+Mandatory Keywords: Robot, Selenium, and Appium with Python
+Education: B.E./B.Tech, MCA
+Experience: 3-10 Years, Experience in Android Mobile/Android TV Application Testing
+Automation (Preferred Exp of OTT industry)
+Location-Remote
+https://lnkd.in/g9PiyCRr
+
+Please share Resumes to Raghav@narveetech.com
+SDET Mobile Testers - 4
+Primary Skills:: See test/ Espresso, Jenkins, GIT, Java, Web/Mobile-Automation, Appium, API Automation, Manual Testing
+Responsibilities:
+•    Develop, maintain, and execute automated JAVA test scripts for mobile/web and rest API automation
+Author, maintain, and execute manual tests
+Good Understanding of core java required for automation
+Collaborate closely with developers, QA analysts, and product managers to ensure comprehensive test coverage and timely delivery of high-quality software.
+Identify, document, and report software defects and issues, and work with the team to resolve them.
+Participate in code reviews and provide valuable input to improve code quality and testability.
+Contribute to the design and implementation of test automation frameworks, tools, and strategies to optimize test efficiency and effectiveness.
+Stay up-to-date with industry best practices, tools, and trends in mobile automation testing.
+Provide mentorship and guidance to junior team members as needed.
+
+Urgent Hiring!!
+Role: QA Engineer
+Location: Whitefield, Bengaluru (Work from office)
+We are looking for Testers at various levels starting 3 to 10 years of relevant experience. The position is responsible for designing and developing Manual and Automation testing frameworks, test-cases, tools etc. They should have very good experience in testing API Integration services and should work with developers, QA, and other stakeholders in product testing. The candidate should be self driven and motivated and work on multiple deliverables with dynamic schedules in an agile software development process.
+Responsibilities:
+Hands-on experience in manual and automation and refine / extend test automation frameworks in support of varying testing types/strategies.
+Experience in developing automation test scripts , execution and maintenance
+Experience in Java, Manual Testing, Selenium
+Work with a cross functional team of product managers, developers, QA team and business teams
+Creation of test plans, design test scenarios , test execution to ensure that the application works as expected
+Ability to triage and troubleshoot issues to identify root causes and support development team to provide resolutions
+Required Skills:
+Expert in Selenium with Java, and API testing using Postman and any other automation tools.
+Strong knowledge of software QA methodologies, tools and processes
+Experience using Test Automation Framework
+Should possess End-to-End knowledge and experience in Testing
+Should have extensive experience in test planning/test strategy, test estimates
+Excellent communication and client handling skills
+Desired Skills and Experience:
+Experience in building virtual services for various protocols like HTTP, REST, MQ , FTP etc..
+In depth experience in SOA, Web services, API Testing
+Hands on Experience in Selenium Automation Testing
+Hands on Experience in Support Job
+Implementing automated testing platforms and unit tests
+Interested? Please share your resume preethi.usurupati@aquera.com
+
+Currently hiring for SDET Mobile automation testing for one of the leading client.
+Position - SDET (mobile)
+Location - Mumbai
+Job description:
+-proficiency in developing and maintaining test automation frameworks, including xctest,pytest,or similar tools.
+- strong coding skills in python,java, Swift or proficiency in at least two other object- oriented programming or scripting languages.
+- proven experience in testing mobile apps on both iOS and Android operating system
+Experience Required -
+4+ years in mobile automation, working with tools such as Xcode,Xcuitest,Appium,and Selenium
+if interested plz share your resume
+maya@fxconsulting.in
+
+We are actively looking for #UIPath #TestLead
+Job Discription:
+1.Should have experience on UI Path
+2.Write Test cases Individually basing on the functional requirement
+3.Experience building test cases from requirements and Design
+4.Experience in Manual Testing
+5.Experience helping team with component testing and system level testing
+6.Good exposure in Agile-Working environment
+Hands-on experience in Project tracking tools like Jira and Confluence
+5+ yrs exp in automation (Selenium) Testing
+Experience in API testing and Robot framework
+Exp in Python or Java
+Skills. UIPath, Automation testing(Selenium),Python or Java, Jira, Test cases
+Experience. 4 Years to 15 Years
+Location. Malaysia(Local and foreigners can apply, need to relocate Malaysia)
+Notice period. 30 to 45 Days
+Should have Strong communication skills
+Interested candidates can send their resumes to arshad@lavutechsolutions.com
+
+Please find below Job Description
+Skill : SWE ( SW Integration Testing )
+Experience : 4-8 years
+Location : Chennai,Bangalore,Pune,Mumbai,Mysure
+Roles and Responsibilities
+1.Good working experience with SW.5-SW Integration Testing – Interface Testing and Requirement Based Testing.
+2.Good knowledge on SWE.5 Test Strategy & Test Methods.
+3.Good working knowledge on Architecture Requirements understanding and analysis (SWE.2).
+4.Very good working knowledge on Test Case design and Execution in the Test benches.
+5.Testing Tools: Hand’s on Experience with Debugger- Lauterbach, Trace32, Vector CANoe, CANape, Davinci Configurator, Bitbucket/Git and Diagra.
+6.Good working knowledge on standard Software Test Design techniques and Test methods, Debugging skills, Peer Reviews and Bug reporting.
+7.Test Automation using ECU Test Tool (Optional) and Scripting languages-Python and CAPL.
+8.Basic knowledge on AUTOSAR.
+9.Good to have Polarion and JIRA workflow exp
+10.Good knowledge on Communication protocols-CAN and UDS services.
+Best Regards
+Ganga Bhavani 
+rayachoti.gangabhavani@peel-works.com
+
+Dear Connect's...
+we are hiring for Frimware Design Engineer & Firmware Test Engineer roles for Bangalore Location.
+Experience : 4 yrs to 10 Yrs
+Np : Immediate to 10 Days
+Work Location : Bangalore ( ATTIBELE )
+Firmware Design Engineer:
+o  understanding design requirements, specifications, initial designing, coding, debugging, and unit testing.Micro controller (32bit, 16bit), STM32F, ARM, MSP430F micro.Strong experience in embedded C, C++, (Java is Plus), SPI/QSPI, I2C, UART is must Modbus, TCP/IP, UDP,Bacnet, Ethernet IP, DNP3, Bluetooth & Zigbee.
+o  Should have Strong experience on Metering / Metrology algorithms / Calibration algorithms and Process for Metering products.
+Firmware Test Engineer :
+Gained adequate experience in Integration (Hardware, Firmware) testing.
+Got some hands-on using test automation tools and technologies (using LabView and Python).Exposure to Modbus serial, TCP and Bacnet protocols
+Kindly share your resume to venkatesh.g1@acldigital.com
+
+Bulk Hiring Alert !!We need Selenium-Java Test Automation engineers for our client Capgemini.- Over all Exp in Testing 4-7 years- Min 50% of the experience should be hands-on on Selenium-Java automation- Hands on experience in Cucumber-BDD (Big plus)- NP - immediate to 30 days- Location - Pune/Bangalore.- Mode - hybrid- Number of open positions - 20+
+Interested candidates plz share ur cv to sneha@varcos.in
+
+Permanent position!!
+Drop in your updated CV to Email: neethunair@ca-one.com
+Profile: Cypress Automation
+Skills: Automation; Python
+Years of Exp: 4+ years
+Location: Pan India
+Notice period: Immediate or 20 Days
+JD Below:
+4+ years’ experience working in software Test Automation Preferably in Mobile Application
+Solid understanding of object- oriented concepts with any OO languages.
+Experience with Python language.
+Solid understanding of GIT
+Experience interacting with REST API / API Load testing
+Experience with CLI
+JIRA
+GitHub
+Android Studio- IDE for Android OS
+Agile framework knowledge
+Troubleshooting /Application debugging
+Worked on Android devices (mobile, tablet)
+
+Python Test Engineer-1
+Experience-5+ yrs
+Location-PAN India
+Notice Period-Immediate
+Skills-Python, Selenium, Cypress
+Python Automation
+Robot Framework
+Looking for Immediate joiners only.
+Kindly share your resume with sakthi.m@vdartinc.com OR call me at -9342867448.
+
+Wipro Is Hiring For Automation Tester Role !!
+Test Engineer with good hands-on on building automated testing scripts & test automation frameworks preferably in financial services space.
+Year of Experience: 5 to 8 years
+Location: Mumbai / Bangalore preferrable.
+Automation Tester Responsibilities:
+Design and implement Automation Scripts for digital applications (Web, Mobile etc)
+Handle regression, functional & integration scripting from and automated testing perspective.
+Execute automated test cases (and manual test cases), record test results, analyze test failures, and report issues in JIRA.
+Maintain test data required for both Manual and Automation testing.
+Key Requirements & Skills
+Good experience with selenium test automation.
+Independently handle Selenium testing automation activities as part of sprints.
+Knowhow of automation with other platforms (UFT, Tosca etc) will be an added advantage.
+Knowhow of continuous testing (tools like Jenkins) and integrating test automation with the same.
+Experience with frameworks preferably (TestNG, BDD).
+Hands on experience in any version control system (preferably – GIT), Maven or Gradle.
+Understanding of areas such as API testing, performance testing.
+Strong knowledge of QA methodologies and testing techniques, including functional, non-functional, system integration, install verification, and testing across many phases of a project.
+Understanding of Agile/Scrum processes and experience participating in an Agile team.
+Financial services / Banking experience will be advantage.
+If keen; Please Share Profiles ASAP At pooja.khandelwal2@wipro.com  with mentioning your Total Expereince, Relevant Expereince, Current CTC , Expected CTC & Notice Period details.
+
+Hai People
+Note: Need min 2 years in Java ( started career as Java developer) and then migrated to automation ( min 3 years)- overall 5- 6 yrs experience.
+Experience – 5 to 6 years
+Location – Hyderabad
+Mode of Work – Work from office
+We need three automation SME’s with at least two years exp in Java.
+2 years exp in Java development is mandatory.
+4 plus years in Selenium with Java is mandatory.
+Experience with UNIX commands
+Build automation frameworks from scratch and can write unit and integration test cases.
+using JUnit, TestNG, Scala Test, and Scala Check
+Working knowledge of HTML, CSS, JavaScript, DOM, SVN/Git, Maven, SBT, and Jenkins
+Capability to work with REST API testing and automation and have performance testing experience (JMeter, Gatling)
+Understand and work with version control systems like SVN and Git
+Tejasree Boda
+tboda@openteqgroup.com
+
+We have an opening for Tosca tester in between 3 to 5 yrs .
+Location:Hyderabad .
+Looking for these hands on:
+Pls refer to this as JD-
+- Able to develop complete automation suite in Tricentis Tosca   
+- Experience in automating various technologies Web, Windows, SAP, Salesforce, ServiceNow  
+-  Able to develop automation scripts for API's, Webservices, REST APIs using Tosca   
+-  Good knowledge about Tool architecture, various features, TCD, TDS, DEX, Tosca Server Dashboard, Licensing in Tosca  
+-  Previous experience as Automation Test Engineer  
+-  Adequate knowledge of frameworks and hands on experience in implementing them  
+-  Profound knowledge in implementing Test Automation implementation in Azure DevOps 
+- Should have good knowledge in VB Scripting/Windows Shell Scripting/.NET/JAVA
+Please share your CV to shivani@cirruslabs.io
+
+Looking for SDET candidates at #Bangalore
+Location: Bangalore at Customer premises
+Payroll: TaaS Technologies
+Experience: 5-8 Years
+Notice period : 15 days to immediate joiner needed
+https://lnkd.in/gzqTvDyg
+An #SDET (Software Development Engineer in Test) plays a crucial role in the software development process by combining development skills with testing expertise. Their main goal is to ensure the quality, reliability, and performance of software products. Here's a typical SDET job description:
+Title: Software Development Engineer in Test (SDET)
+Job Description:
+As an SDET, you will be responsible for designing, developing, and implementing test strategies, frameworks, and automated tests to ensure the quality and functionality of our software products. You'll collaborate closely with developers, quality assurance teams, and other stakeholders to identify and fix defects, improve testability, and streamline testing processes.
+*Key Responsibilities:*
+- Design and develop automated test scripts, frameworks, and tools to validate software functionality, performance, and scalability.
+- Collaborate with cross-functional teams to understand requirements and provide input during the design and development phases to ensure testability.
+- Implement and maintain continuous integration and continuous delivery (CI/CD) pipelines to automate testing and deployment processes.
+- Perform various types of testing, including functional, regression, integration, performance, and security testing.
+- Analyze test results, identify defects, and work with developers to resolve issues and ensure high-quality software.
+- Participate in code reviews, technical discussions, and agile/scrum ceremonies to provide testing insights and ensure software quality.
+- Monitor and report on the status of test automation efforts, test coverage, and quality metrics.
+Qualifications:
+- Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).
+- Strong programming skills in languages like #Java, #Python, C#, or others.
+- Hands-on experience with test automation tools and frameworks such as #Selenium, JUnit, TestNG, JIRA, etc.
+- Proficiency in writing and executing SQL queries for database testing.
+- Knowledge of software development methodologies (Agile, Scrum) and version control systems (Git).
+- Understanding of continuous integration and continuous delivery concepts.
+- Familiarity with performance testing tools and techniques is a plus.
+- Excellent problem-solving skills, attention to detail, and the ability to work in a collaborative team environment.
+- Strong communication skills to effectively collaborate with developers, testers, and other stakeholders.
+- Competitive salary and benefits package
+- Professional development opportunities
+- Collaborative and innovative work environment
+
+We have number of job opening in Guadalajara
+Onsite/Hybrid
+Permanent Position
+Data Engineer
+Data Engineer (Angular, Javascript)
+DBA
+HD Engineering
+Java, QE(Automation)
+ML Ops
+MLOps, Java, Python
+NodeJS, ReactJS, PCF, GCP, JavaScript, TypeScript.
+SAP Data Services Developer
+SAP Testing
+Tanden QA Analyst
+Tableau and ETL/SQL Developer for Cyber org (new Sr. Mgr)
+SQL, ETL, Big Query
+Data Modelling
+Java,Quarkus,GCP
+Cassandra, GCP
+GCP Data Engineer
+Java Sprint boot
+JAVA Backend developer
+Java Fullstack
+JAVA Front end developer
+Java Springboot, GCP
+Salesforce application
+SAP MM
+SRE
+Trade Credit (AR + SD) - O2C
+QE
+Mobile & IOS
+Data Engineer, ML
+GoLang
+Puppet Support
+Automation Engineer
+Software Engineer
+SAP SD
+Mainframe developer
+Package
+Ready API Automation with TOSCA tool
+.Net Developer+Azure+Angular
+Azure DevOps +Terraform
+Security Tester
+Azure Data Factory
+T4 SQL server DBA
+Sr. SQL DBA - T3
+T4 Oracle DBA
+Network + Solarwinds
+DevSecOps Kubernetes Engineering
+Full Stack Developer(.Net/Azure/JS/HTML/CSS) with Azure cloud
+QA/Test Engineer(Selenium,Cucumber)
+AWS Engineer (AWS DevOps + Terraform + Kubernetes + Helm)
+Unix Admin
+Pega
+Senior Data Engineer
+Production Support
+If you are interested. kindly share resume to m.ammu@tcs.com
+
+we have openings for "Automation Testing"
+Experience:6+years
+Location: Bangalore/Coimbatore
+Notice period - Immediate to 30days
+JOB DESCRIPTION:
+Automated test scripts using playwright framework, D365 platform
+Test automation
+Report and track defects
+Automation framework, Ci/cd, Java, C#.
+Automating web applications using selenium
+JavaScript \Typescript
+Interested Candidates Share your resume to this
+mail id: navya.d@twsol.com.
+
+Role: Test Automation Engineer (PMB1)
+Job Description
+Test Automation Engineer /QA Automation
+Exp 6- 8
+Location : Pune
+Compensation – Upto INR 133000/PM
+We are looking for a senior automation engineer who would join our engineering team. The candidate will be expected to perform requirements verification, test software, and provide a second line of support.
+Skills:
+Must have excellent hands-on experience in Test automation ( minimum 4 years in Selenium & Appium).
+Must be a self starter with ability to understand existing framework and code on top of it.
+Hands-on knowledge of setting up automation framework from scratch and build scalable automation solutions.
+Excellent working knowledge in one of the programming languages including Java, C#, Python etc.
+Should be familiar with remote execution tools like Sauce Labs, Perfecto, Selenium Grid, etc Must have commanding knowledge on build tools such as Maven,Gradle,Ant.
+Should have worked on source code management tools like GIT, SVN .
+Should be able to:
+Review and manage configurations, builds, branching, and deployment issues w.r.t to Framework and relevant tools.
+Partner with QA managers and other stakeholders in establishing best practices for automation framework across multiple projects.
+Formulate automation best practices guidelines. Create extensive documentation with examples for framework & tools.
+Ability to drive automation journey with full ownership & responsibility and mentor junior resources.
+Ability to understand complex business , technical processes and good fundamentals of Testing and ability to create test plans and strategies in automation.
+Good to have experience in working with Vendor resources and coordinating with them for work status and hand-holding as and when required.
+Excellent written & verbal communication skills in English language with ability to interact effectively with co-workers/clients.
+serviceability, assess quality risk and report it to concerned people.
+Graduation Degree in Technical education from a recognized university.
+Mail your resume to brm@azeosoft.com with Role, Current CTC, Current Location and Notice Period. Please send if you have the relavant experience and skills as per job description.
+Email your details here: brm@azeosoft.com
+
+Maantic is hiring for Pega testing_4-10 Yrs_Hyderabad(Hybrid Model)_Permanent
+3+ Years experience in Pega Manual Testing.
+6+ Years Automation testing with Selenium and Java or Python.
+Exp:7-10 Yrs
+Notice Period: Immediate-30days
+Work Location-Bangalore(Hybrid Model)
+Notice Period: Immediate-30days
+Interested candidates can reach me: nagarjuna.reddy@maantic.com
+
+Spruce InfoTech, Inc
+Designation: Automation Testing
+Experience: 7+ Years
+Location: Bangalore, Pune
+Domain: Payments
+Notice Period: Immediate Joiners to Max 30 days NP.
+C2H with MNC
+Required good hands on experience in following:
+- Primary Technical Skills: Automation testing, Java, Selenium, Cucumber
+You can DM me or share your resume to devshi@spruceinfotech.com
+
+Maantic is hiring for Pega testing_4-10 Yrs_Hyderabad(Hybrid Model)_Permanent
+3+ Years experience in Pega Manual Testing.
+6+ Years Automation testing with Selenium and Java or Python.
+Exp:7-10 Yrs
+Notice Period: Immediate-30days
+Work Location-Bangalore(Hybrid Model)
+Notice Period: Immediate-30days
+Interested candidates can reach me: nagarjuna.reddy@maantic.com
+
+#automation #selenium #tosca
+We are urgently looking for an automation test engineer for a leading IT MNC in Bangalore.
+CTC: up to 35 LPA
+Min. exp.: 7 years
+Notice Period: LWD within 20 Days Interested Please share resume at info.gs@thegsgroup.in
+
+We are looking for "Automation test Engineer (Selenium and Cucumber (Mandatory))" at Hyderabad/Chennai Location with a notice period of between immediate to 45 days
+If you are interested pls share your profiles only to mohanraj.G7@cognizant.com 
+subject - "Automation Test Engineer (Selenium and Cucumber)- with Preferred location"
+Job Description:
+1 Previous experience as a test automation engineer/Sr. Engineer.
+2 Experience in developing automation scripts using Selenium with Cucumber , Katalon or Robot Frameworks
+3 Proficiency in programming languages such as Java and Python.
+4 Experience with automation testing for Workfusion based projects
+5 Experience of Sprint automation approaches that do not have any dependence on dev code /screens to start scripting
+6 Understanding of test-driven development
+Note:
+7 Shortlisted candidates will be called for Interview
+8 Sharing profiles through mail is preferred
+9 Refer your colleagues/ Networks who are actively searching for an opportunity
+
+Automation Expert (Selenium + Java)
+Experience: 7+ years
+Location: Navalur, Chennai
+Mode: WFO ONLY
+Interested can reach ashokkumars@newtglobalcorp.com
+
+Greetings From Lancesoft India
+Total Years :: 7-10 Years,
+Relevant Exp :: SAP Finance 5 years, UFT , VB Script-5 Years, QA Automation-5 years,
+Work Mode :: Work From Home
+Shift Timings :: 2PM-10PM,
+Description:
+Experience Level: 7-10 years Design test processes and procedures used to ensure that software operates within defined requirements. Implement test plans, automation, and validation strategies. Identify and investigate issues found during testing. Work closely with software developers and software quality analysts to resolve issues. Develop and maintain automated test scripts to reduce repetitive manual testing. Entry-Level position within field. Requires little to no experience in discipline. Conducts routine tasks as directed. Closely supervised with little latitude for independent judgment. Typically requires up to three years of relevant experience.
+#referrals Would be appreciated
+If anyone of you looking for a job change , kindly do share your updated CV to
+Dinesh.Pujari@lancesoft.in
+
+Role - Performance Automation Testing
+Exp: 8-12 Yrs
+Location - Bangalore
+Notice Period - 0-15days
+strong exp in Performance engineering which covers,
+- Define Performance Test strategy end to end for a product
+- Performance Test results debugging and analysis to find rootcause
+- Deep knowledge in JMeter, Front end performance test tool
+- Deep knowledge in APM (datadog)
+- CI/CD integration
+- And Derive performance metrics.
+Interested candidates please share your resume at lisa.chakraborty@tescra.com
+
+Looking for Quality Assurance – Lead
+Overall experience : 8 - 14 years
+Job Description
+Job Roles and Responsibilities:
+• Creation and maintenance of automated test environments and frameworks to work with standardized test processes based on software testing methodologies.
+• Development, execution, and maintenance of manual and automated tests to support functional, regression, performance, and load tests cycles.
+• Should have expertise in QA automation, selenium, and cucumber with Java (Java certification will be an addon benefit)
+• Experience in Jenkins, docker, headless and CI Testing
+• Domain experience – Wealth Management or Investment banking
+• Should have Experience of JIRA, Redmine
+• Should have knowledge of Github, Bitbucket etc
+• API Test Automation
+• Work closely with Business User team to develop requirements, FSD creation and sign Off, and appropriate test plans to meet the requirements outlined in the requirements documentation.
+• Create, maintain and support manual and automated tests.
+• Create and publish formal release notifications, instructions, deployment notes, and user manual as needed.
+• Coordinate activities with business, UAT and Development teams to ensure a smooth and trouble-free roll out of releases.
+Technical Skills:
+• Support multiple concurrent releases through various test environments.
+• Communicates with technical management and other departments, reporting statuses and risks.
+• Works effectively with internal and external partners.
+• Works under minimal supervision.
+Personality and Interpersonal Skills:
+• Excellent communication skills,
+• Attention to detail.
+• Analytical mind and problem-solving aptitude.
+• Strong organizational skills.
+Must Have Skills :
+QA Automation, Manual testing, Selenium, Cucumber with Java, JIRA, GitHub, BitBucket, API Testing, Jenkins, Docker, Regression Testing, Functional Testing (expecting 80%skills)
+Share Updated resume at shaharyarali@optimhire.com
+
+Greetings from SmartPath Staffing!!
+Hope you're doing well!
+Please send me suitable resumes.
+Job Title Automation Engineer
+Location: Remote
+Job Type: Contract
+Must Have 8+ Years of Experience
+Must have skills:
+Experience with Karate Framework
+Should have Automation Testing exp. with Kafka, API, Microservices with Angular
+Regards,
+Murali Prasad
+Smart Path Staffing
+E: murali@smartpathstaffing.com
+
+Role: Performance Automation Testing
+Experience: 8-12 years
+Location: Bangalore
+Skills:
+strong exp in Performance engineering which covers,
+-Define Performance Test strategy end to end for a product
+-Performance Test results debugging and analysis to find rootcause
+-Deep knowledge in JMeter, Front end performance test tool
+-Deep knowledge in APM (datadog)
+-CI/CD integration
+-And Derive performance metrics
+Anyone looking for job change can share me your resume at ayman.rafik@tescra.com
+
+I am hiring Java development with Automation testing for one of our MNC Client.
+Experience : 8 to 10 years
+Locations : Bangalore,
+Notice Period : Immediate to 30 days
+Skills Required :
+- The candidate should be have 8-10 years Java Developers having Test Automation(selenium) experience and exposure on Python.
+- Recent most experience must be hands-on Java development/Designing (Not past) and exp
+- Java hands on experience of minimum 2 years.
+- Candidate must have lead or good understanding of Test automation frameworks and processes.
+Relevant candidates share your resume to mani@durusconsulting.com
+
+~8 years of experience in Testing
+Hands on experience in UI and DB automation testing
+Have hands on experiences on Selenium, JavaScript, Cucumber, Python and API testing
+Hands on experience in CI/CD pipeline creation
+Team leading experience
+Cloud testing
+Have done POCs and provided assessment reports
+Integration of automation framework with other tools for cross browser testing or any such development experience.
+Interested candidate share your profile - vidya.rajesh@mainstreamtek.com
+
+We're #hiringimmediately Quality Assurance Lead
+Position: Quality Assurance – Lead  
+Job Type: Full-Time  
+Salary Range: ₹20 - 25 Lakh/Year (Annual salary)  
+Location: Onsite Pune, Maharashtra, India
+Apply Now: https://optimhire.com/d/jv/176183?ref_code=ramchandra-nale
+Job Roles and Responsibilities:
+We are seeking an experienced Quality Assurance Lead to ensure the quality and reliability of our software products through the creation and maintenance of automated test environments and frameworks. The successful candidate will play a vital role in supporting our software development lifecycle by conducting manual and automated tests, collaborating with cross-functional teams, and upholding the highest standards of software testing methodologies.
+Must-Have Skills:
+- Java (All Versions)
+- Selenium
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- QA Automation
+
+hiring for Permanent Position with Cognizant for Automation Tester.
+Please Don't change Subject line
+JD: Hands-on experience in Automation Testing with Rest Assured
+Experience:- 9 to 14 yrs
+Mandatory to have experience in Automation Testing with Rest Assured (In Project)
+Interview Mode : Virtual
+Interview Date : 19-August-2023 (Saturday)
+Available on 19-August-2023 Y/N:
+Interested candidates can apply with your details:-
+Name:
+Mobile No:
+Primary mail Id (Mandatory):
+Secondary mail id (Mandatory):
+Gender:
+Current Job Location:
+Preferred Location:
+FTE (full time)/CWR(contract) :
+Current Company :
+Payroll Company:
+Total Experience :
+Relevant Experience in (Selenium, Java, Cucumber, Rest Assured) :
+Notice Period Immediate or 90 days :
+Currently Serving(Y/N) :
+If Yes LWD:
+Buyout Option (Y/N) :
+Current CTC :
+Expected CTC :
+Highest Qualification:
+Are you Ex Cognizant Y/N:
+PF Availability Y/N:
+Form 16 Availability Y/N:
+Date of Birth:
+Aadhar Number:
+PAN Number:
+Any offer in Hand :
+Drive Date : 19-Aug-2023
+Available Timings :
+Please check interview invite in Primary and Secondary mail.
+If shortlisted you will be getting Interview Invite from Talentacquisition2@cognizant.com one day prior to Interview Date.
+
+Looking for QA Manager based in Delhi/NCR for Our organistaion.
+Skill - Automation+ Manual Testing
+Work Mode - WFO
+Exp - 10-13 yrs 
+Location - Noida Sector 62
+Looking for candidates who can join immediately.
+If interested or any reference, please reach me at vibha.chaudhary@qtsolve.com
+
+Hello All,
+Hope you are doing great!!
+We have an urgent requirement for QA Automation Engineer  Please share me your updated resume on akshay@eappstech.com
+Job Title : QA Automation Engineer 
+Work Location: Remote
+Duration: 12+Months
+Experience: 10+
+Mandatory skills: Selenium, SQL, testing  
+
+Your Corporate Life
+For More Info: https://wa.me/message/7J3HRZSE7ZKEP1 (Get daily 200+ Jobs for Manual + Automation Testing)
+Source: Linkedin
+Date: 17 Aug 2023(last 24 hr)
