@@ -1,16 +1,18 @@
-let promise = fetch('https://reqres.in/ap/users?page=2')
-    .then(response => response.json())
-    .then(jsonData => {
-        console.log(jsonData);
-        return 'Hello'; // Resolving the outer promise with 'Hello'
-    })
-    .catch(err => {
-        console.error(err);
-        throw err; // Rethrowing the error to be caught by the outer catch block
-    });
+let promise = new Promise((reslove, reject) => {
+    let x=5;
+    if (x < 5) {
+        reslove(() => {
+            return x * 2;
+        })
+    } else {
+        reject(() => {
+            return 'this is error'
+        })
+    }
+})
 
-promise.then(data => {
-    console.log(data);
+promise.then((res) => {
+    console.log(res());
 }).catch(err => {
-    console.error(err);
-});
+    console.error(err());
+})

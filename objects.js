@@ -1,21 +1,13 @@
-String.prototype.addSpace = async function () {
-    // if (this !== 'string') return 'Errorr'
-    try {
-        let arr = this.split('');
-        let newArr = [];
-        for (let i = 0; i < arr.length; i++) {
-            if (arr[i] === arr[i].toUpperCase() && i !== 0) {
-                newArr.push(' ');
-            }
-            newArr.push(arr[i]);
+Object.prototype.addSpace = function () {
+    let result = this[0];
+    for (let i = 1; i < this.length; i++) {
+        if (this[i] === this[i].toUpperCase()) {
+            result += ' ';
         }
-        return newArr.join('');
+        result += this[i];
     }
-    catch{
-        throw 'This is not acceptle'
-    }
-
+    return result;
 }
-
-let res = 'ParshuramDadasTakewadi'.addSpace();
+let str = 'ParshuramDadasTakewadiTalMan'
+let res = str.addSpace();
 console.log(res)
